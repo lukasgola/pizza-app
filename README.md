@@ -1,7 +1,6 @@
-<div align="center">
-  <h1>Pizza App</h1>
-  <h3>Simple application to take orders for a pizza supplier</h3>
-</div>
+# Pizza App
+
+### Simple application to take orders for a pizza supplier
 
 ## Table of Contents
 - [Introduction](#introduction)
